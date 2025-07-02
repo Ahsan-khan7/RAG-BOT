@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-openai # Or other LLM providers like langchain-google-genai, langchain-mistralai
+chromadb
+pydantic
+python-dotenv
+tiktoken # For token counting (useful for memory management)
